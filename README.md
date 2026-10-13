@@ -18,7 +18,8 @@ It is exist because it make convert you home to smart home
 ## * BUZZER
 ## * 2×RELAY 
 ## * CUSTOM MADE PCB
-
+## * 1K RESISTOR 
+## * MSFET
 # MIT LICENSE 
 https://github.com/adrishanik/Smart-Home-Controlled-Hub-2/blob/main/LICENSE
 
