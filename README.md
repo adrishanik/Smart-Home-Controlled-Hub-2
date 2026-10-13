@@ -1,4 +1,4 @@
-# Smart-Home-Controlled-Hub
+-# Smart-Home-Controlled-Hub
 <img width="697" height="512" alt="quickshot_261008_133115" src="https://github.com/user-attachments/assets/1605df94-644c-47ed-93e2-8bb5ed3e4631" />
 
 ## About my project 
@@ -8,18 +8,8 @@ This is a type of machine that control home electrical item . It save electricit
 ## why it is exist
 It is exist because it make convert you home to smart home
 
-# Names of components that are need
+# Bill Of Materials 
 
-## * Esp8266 
-## * 3.7V BATTERY 
-## * 2×74HC595 
-## * 3×7SEGMENT 
-## * 3×PUSH BOTTON
-## * BUZZER
-## * 2×RELAY 
-## * CUSTOM MADE PCB
-## * 1K RESISTOR 
-## * MSFET
 # MIT LICENSE 
 https://github.com/adrishanik/Smart-Home-Controlled-Hub-2/blob/main/LICENSE
 
