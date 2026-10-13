@@ -5,5 +5,20 @@
 This is a type of machine that control home electrical item . It save electricity and you see a display the give the number of device connected and also see a buzzer that indicate the device will be stop by relay and have 3.7v battery that get the power and have some push botton that for manual control the relay and buzzer.
 
 
+## why it is exist
+It is exist because it make convert you home to smart home
+
+# Names of components that are need
+
+## * Esp8266 
+## * 3.7V BATTERY 
+## * 2×74HC595 
+## * 3×7SEGMENT 
+## * 3×PUSH BOTTON
+## * BUZZER
+## * 2×RELAY 
+## * CUSTOM MADE PCB
+
+# MIT LICENSE 
 
 
