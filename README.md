@@ -1,4 +1,4 @@
--# Smart-Home-Controlled-Hub
+# Smart-Home-Controlled-Hub
 <img width="697" height="512" alt="quickshot_261008_133115" src="https://github.com/user-attachments/assets/1605df94-644c-47ed-93e2-8bb5ed3e4631" />
 
 ## About my project 
