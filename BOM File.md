@@ -1,0 +1,12 @@
+ID	Name	Designator	Footprint	Quantity	Manufacturer Part	Manufacturer	Supplier	Supplier Part	Price	Pins	Contributor	JLCPCB Part Class	image	link
+"1"	"2207-P10MM"	"BUZZER1"	"BUZ-TH_BD22.0-P10.00_BUZZER_PIEZO_HX-2212"	"1"	"2207-P10MM"	"XHXDZ(兴华鑫)"	"LCSC"	"C49246969"	"0.154"	"2"	"lcsc"	"Extended Part"	""	""
+"2"	"HDR-F-2.54_1x15"	"H1"	"HDR-F-2.54_1X15"	"1"	""	""	"LCSC"	"C124408"	"0.284"	"15"	"LCEDA_Lib"	""	""	""
+"3"	"HDR-IDC-2.54-2X8P"	"P1,P2"	"HDR-F-2.54_2X8"	"2"	"IDC Box 2.54mm 16P　Straight"	"BOOMELE"	"LCSC"	"C3406"	"0.137"	"16"	""	""	"//image.lceda.cn/szlcsc/C3406.jpg"	""
+"4"	"CONN-TH_3P-P5.00"	"P3,P4"	"CONN-TH_3P-P5.00"	"2"	""	""	"LCSC"	""	""	"3"	"LCEDA_Lib"	""	""	""
+"5"	"Female header1X15P 2.54mm"	"P5"	"HDR-TH_15P-P2.54-V-F"	"1"	"Female header1X15P 2.54mm"	"ReliaPro"	"LCSC"	"C54104"	""	"15"	""	"Extended Part"	""	""
+"6"	"2N2222"	"Q1"	"TO-92-3_L4.9-W3.7-P1.27-L"	"1"	"2N2222A"	"ST(先科)"	"LCSC"	"C118536"	"0.04"	"3"	"LCSC"	"Extended Part"	""	""
+"7"	"1k"	"R1,R2,R3,R4,R5,R6,R7,R8,R9"	"R0603"	"9"	""	""	""	""	""	"2"	"LCEDA_Lib"	""	""	""
+"8"	"SEG-TH_0.56×1_Cathode"	"SEG1,SEG2,SEG3"	"LED-SEG-TH_10P-L12.6-W19.0-P2.54-S15.24-BL"	"3"	""	"志浩"	""	"C8093"	"0.22"	"10"	"LCEDA_01"	""	""	""
+"9"	"Swith 2gate"	"U1,U2,U3"	"SWITH"	"3"	"Switch"	""	""	""	""	"2"	"pongsatornkongsomruay"	""	""	""
+"10"	"NODEMCU(12F)"	"U5"	"COMM-TH_NODEMCU-12F"	"1"	"NODEMCU(12F)"	"Ai-Thinker(安信可)"	"LCSC"	"C2764098"	"6.668"	"30"	"lcsc"	"Extended Part"	""	""
+"11"	"SVC14500 3.7V 800MAH"	"U7"	"BAT-TH_SVC14500-3.7V-800MAH"	"1"	"SVC14500 3.7V 800mAh"	"Sharvin Power(经钛电子)"	"LCSC"	"C42404724"	""	"2"	"lcsc"	""	""	""
