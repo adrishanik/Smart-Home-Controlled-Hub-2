@@ -22,8 +22,9 @@ https://easyeda.com/editor#id=904f575704974e0faa4a283e16ee5fa8
 <img width="1358" height="635" alt="quickshot_261013_211921" src="https://github.com/user-attachments/assets/e8d90805-7ffb-4d48-bde4-45be650cf406" />
 
 ## Link of the 3D Model of my PCB
-
-https://easyeda.com/editor#id=904f575704974e0faa4a283e16ee5fa8|0a9a61cacc8b469fbdd2691e182baae3
+STEP 1: FIRST CLICK ON THE LINK (https://easyeda.com/editor#id=0a9a61cacc8b469fbdd2691e182baae3)
+STEP 2: YOU SEE A 3D BOTTON ON THE WEBSITE 
+STEP 3: CLICK ON THE 3D BOTTON THEN REDIRECTED TO MY 3D MODEL
 
 
 # Bill Of Materials 
