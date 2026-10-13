@@ -7,7 +7,10 @@ This is a type of machine that control home electrical item . It save electricit
 
 ## why it is exist
 It is exist because it make convert you home to smart home
-
+# CAD OF MY PCB
+<img width="720" height="504" alt="quickshot_261013_211622" src="https://github.com/user-attachments/assets/69ba3049-c5bd-4917-a8c3-b11a98aad83d" />
+## Link of the CAD
+https://easyeda.com/editor#id=904f575704974e0faa4a283e16ee5fa8
 # Bill Of Materials 
 
 <img width="1202" height="506" alt="WhatsApp Image 2026-10-13 at 3 53 54 PM" src="https://github.com/user-attachments/assets/9284124f-8553-4608-8ced-e5e93d5d835e" />
