@@ -10,6 +10,8 @@ It is exist because it make convert you home to smart home
 
 # Bill Of Materials 
 
+<img width="1202" height="506" alt="WhatsApp Image 2026-10-13 at 3 53 54 PM" src="https://github.com/user-attachments/assets/9284124f-8553-4608-8ced-e5e93d5d835e" />
+
 # MIT LICENSE 
 https://github.com/adrishanik/Smart-Home-Controlled-Hub-2/blob/main/LICENSE
 
