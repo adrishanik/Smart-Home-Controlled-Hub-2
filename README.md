@@ -20,5 +20,5 @@ It is exist because it make convert you home to smart home
 ## * CUSTOM MADE PCB
 
 # MIT LICENSE 
-
+https://github.com/adrishanik/Smart-Home-Controlled-Hub-2/blob/main/LICENSE
 
