@@ -2,8 +2,15 @@
 <img width="697" height="512" alt="quickshot_261008_133115" src="https://github.com/user-attachments/assets/1605df94-644c-47ed-93e2-8bb5ed3e4631" />
 
 ## About my project 
-This is a type of machine that control home electrical item . It save electricity and you see a display the give the number of device connected and also see a buzzer that indicate the device will be stop by relay and have 3.7v battery that get the power and have some push botton that for manual control the relay and buzzer.
 
+This is Project that help people by transform the old electric device to device electric Machine .This project have a display that show number of device are connected to this project and also display the number of device which on or off.
+
+## How it work
+
+While you connect a device then relay give the signal that pass through a buzzer to botton to esp8266 then the esp give the signal to display then show the number of device then the relay fully control by esp that means you also control the device by phone or manually by pressing the botton and it have a feature while you stop or off the device by the mobile or botton then our project makes a beep sound by buzzer that means you off any device 
+
+## Limitation Of This Project
+My Custom made pcb can fit only 2xrelay that you connect only 2xdevice , the device only number of device not show the name of device and It only give the control of on & off .
 
 ## why it is exist
 
