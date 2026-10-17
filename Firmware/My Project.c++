@@ -5,7 +5,7 @@
 #include <DHT.h>
 
 
-char auth[] = "";//Enter your Auth token
+char auth[] = "DSBMSQ3QoBnfiNJQqnLXiiulqQ4C60nUz";
 char ssid[] = "1234";
 char pass[] = "1234";
 
